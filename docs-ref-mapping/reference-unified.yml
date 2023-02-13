@@ -12,7 +12,7 @@
         href: ~/docs-ref-services/{moniker}/mgmt-advisor-readme.md
         children:
         - azure-mgmt-advisor
-  - name: AgriFood
+  - name: Agrifood
     href: ~/docs-ref-services/{moniker}/agrifood.md
     landingPageType: Service
     items:
@@ -112,6 +112,14 @@
         href: ~/docs-ref-services/{moniker}/mgmt-authorization-readme.md
         children:
         - azure-mgmt-authorization
+  - name: Auto Suggest
+    href: ~/docs-ref-services/{moniker}/auto-suggest.md
+    landingPageType: Service
+    items:
+    - name: Auto Suggest
+      href: ~/docs-ref-services/{moniker}/cognitiveservices-search-autosuggest-readme.md
+      children:
+      - azure-cognitiveservices-search-autosuggest
   - name: Automanage
     href: ~/docs-ref-services/{moniker}/automanage.md
     landingPageType: Service
@@ -1021,22 +1029,10 @@
         href: ~/docs-ref-services/{moniker}/mgmt-deviceupdate-readme.md
         children:
         - azure-mgmt-deviceupdate
-  - name: IoT Central
-    href: ~/docs-ref-services/{moniker}/iot-central.md
-    landingPageType: Service
-    items:
-    - name: Management
-      items:
       - name: Resource Management - IoT Central
         href: ~/docs-ref-services/{moniker}/mgmt-iotcentral-readme.md
         children:
         - azure-mgmt-iotcentral
-  - name: IoT Hub
-    href: ~/docs-ref-services/{moniker}/iot-hub.md
-    landingPageType: Service
-    items:
-    - name: Management
-      items:
       - name: Resource Management - IoT Hub
         href: ~/docs-ref-services/{moniker}/mgmt-iothub-readme.md
         children:
@@ -1704,6 +1700,16 @@
         href: ~/docs-ref-services/{moniker}/mgmt-serialconsole-readme.md
         children:
         - azure-mgmt-serialconsole
+  - name: Server Management
+    href: ~/docs-ref-services/{moniker}/server-management.md
+    landingPageType: Service
+    items:
+    - name: Management
+      items:
+      - name: Resource Management - Server Manager (deprecated)
+        href: ~/docs-ref-services/{moniker}/mgmt-servermanager-readme.md
+        children:
+        - azure-mgmt-servermanager
   - name: Service Bus
     href: ~/docs-ref-services/{moniker}/service-bus.md
     landingPageType: Service
@@ -1932,8 +1938,8 @@
         href: ~/docs-ref-services/{moniker}/mgmt-subscription-readme.md
         children:
         - azure-mgmt-subscription
-  - name: Synapse Analytics
-    href: ~/docs-ref-services/{moniker}/synapse-analytics.md
+  - name: Synapse
+    href: ~/docs-ref-services/{moniker}/synapse.md
     landingPageType: Service
     items:
     - name: Synapse
