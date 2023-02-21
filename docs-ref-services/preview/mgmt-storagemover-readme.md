@@ -3,7 +3,7 @@ title:
 keywords: Azure, python, SDK, API, azure-mgmt-storagemover, storagemover
 author: lmazuel
 ms.author: lmazuel
-ms.date: 02/20/2023
+ms.date: 02/21/2023
 ms.topic: reference
 ms.devlang: python
 ms.service: storagemover
