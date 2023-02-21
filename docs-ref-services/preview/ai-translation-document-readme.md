@@ -8,7 +8,7 @@ ms.topic: reference
 ms.devlang: python
 ms.service: translation
 ---
-# Azure Document Translation client library for Python - version 1.0.1a20230221001 
+# Azure Document Translation client library for Python - version 1.0.1a20230220001 
 
 
 Azure Cognitive Services Document Translation is a cloud service that can be used to translate multiple and complex documents across languages and dialects while preserving original document structure and data format.
